@@ -33,8 +33,8 @@ const favoriteThings = {
   band: "Don't have one",
   food: 'Indian',
   person: 'All',
-  book: 'NA',
-  movie: 'also none',
+  book: 'A Smarter Way to Learn Java Script',
+  movie: 'We Bought a Zoo',
   holiday: '4th of July'
 }
 
@@ -140,6 +140,7 @@ user2.email = 'tyler.mcginnis@devmounta.in';
 
 //Code Here
 
+let methodCollection = {}
 
 
 /*
@@ -148,7 +149,8 @@ user2.email = 'tyler.mcginnis@devmounta.in';
 */
 
 //Code Here
-
+methodCollection.alertHello = 'hello';
+console.log(methodCollection.logHello = 'hello';)
 
 
 /*
@@ -156,7 +158,8 @@ user2.email = 'tyler.mcginnis@devmounta.in';
 */
 
 //Code Here
-
+alertHello();
+logHello();
 
 
 ////////// PROBLEM 6 //////////
@@ -167,7 +170,6 @@ user2.email = 'tyler.mcginnis@devmounta.in';
 */
 
 //Code Here
-
 
 
 ////////// PROBLEM 7 //////////
